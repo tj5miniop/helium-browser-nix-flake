@@ -41,6 +41,10 @@ nix build .
 
 The binary will be available at `./result/bin/helium`.
 
+## Contributing
+
+If you find something broken or not working as expected, feel free to open an issue or submit a pull request.
+
 ## License
 
 This flake is licensed under the [MIT License](./LICENSE.md). The Helium browser itself is licensed under the [GPL-3.0 License](https://github.com/imputnet/helium/blob/main/LICENSE).
